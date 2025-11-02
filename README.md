@@ -1,7 +1,7 @@
 ## Hi, I'm Yulia 👋
 
 - 🐞 Aspiring QA Automation Engineer 
-- 🌱 Сurrently learning Python programming and testing frameworks
+- 🌱 Сurrently learning programming and testing frameworks
 - 💻 🧠 Passionate about technology and lifelong learning
 
 ## 💻 Tech Stack
